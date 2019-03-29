@@ -3,3 +3,4 @@ Space to learn basic git commands from the terminal. Also trying to mimic a real
 
 1. Stage One - Developed
 2. Stage Two - Developing
+   - Developed Feature-2   
