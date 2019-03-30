@@ -15,4 +15,4 @@ Space to learn basic git commands from the terminal. Also trying to mimic a real
    - Developed Feature-c
    - Developed Feature-d
 6. Stage Six - Developing
-
+   - Developed Feature-6
