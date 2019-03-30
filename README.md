@@ -9,3 +9,4 @@ Space to learn basic git commands from the terminal. Also trying to mimic a real
    - Developed Feature-a
    - Developed Feature-b
 4. Stage Four - Developing
+   - Developed Feature-3
