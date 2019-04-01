@@ -17,3 +17,5 @@ Space to learn basic git commands from the terminal. Also trying to mimic a real
 6. Stage Six - Developed
    - Developed Feature-6
    - Developed Feature-5
+7. Stage Seven - Developed
+   - Developed Feature-e
